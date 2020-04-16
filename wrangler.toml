@@ -1,0 +1,6 @@
+name = "zicanl_project"
+type = "javascript"
+account_id = "b5c3b7a93047004ed1faa4f30657f47e"
+workers_dev = true
+route = ""
+zone_id = ""
